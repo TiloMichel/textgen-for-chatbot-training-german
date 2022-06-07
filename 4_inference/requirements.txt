@@ -1,0 +1,7 @@
+language-tool-python==2.7.1
+tqdm==4.64.0
+spacy==3.3.1
+spacy-universal-sentence-encoder==0.4.3
+pydantic==1.9.1
+elasticsearch==7.17.0
+transformers==4.20.0

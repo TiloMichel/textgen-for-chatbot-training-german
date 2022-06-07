@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+version: 1.0.0
+date-released: 2022-7
+message: "If you use this software, please cite it using these metadata."
+title: "Text generation for chatbot training in German"
+authors: 
+  - family-names: Michel
+    given-names: Tilo
+publisher: GitHub
+url: "https://github.com/TiloMichel/textgen-for-chatbot-training-german"

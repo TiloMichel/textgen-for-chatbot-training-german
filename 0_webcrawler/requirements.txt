@@ -1,0 +1,4 @@
+scrapy==2.5.1
+scrapy_splash==0.8.0
+elasticsearch==7.17.0
+justext==3.0.0
