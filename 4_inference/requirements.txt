@@ -4,4 +4,4 @@ spacy==3.3.1
 spacy-universal-sentence-encoder==0.4.3
 pydantic==1.9.1
 elasticsearch==7.17.0
-transformers==4.20.0
+transformers==4.36.0
